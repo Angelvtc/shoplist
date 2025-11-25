@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Documents\\shoptList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|c:\\users\\angel\\onedrive\\documents\\shoptlist\\shoptlist.gui\\views\\shoptlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|solutionrelative:shoptlist.gui\\views\\shoptlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|c:\\users\\angel\\onedrive\\documents\\shoptlist\\shoptlist.gui\\viewmodels\\shoplistviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|solutionrelative:shoptlist.gui\\viewmodels\\shoplistviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|c:\\users\\angel\\onedrive\\documents\\shoptlist\\shoptlist.gui\\views\\shoptlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|solutionrelative:shoptlist.gui\\views\\shoptlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|c:\\users\\angel\\onedrive\\documents\\shoptlist\\shoptlist.gui\\views\\shoptlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|solutionrelative:shoptlist.gui\\views\\shoptlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|c:\\users\\angel\\onedrive\\documents\\shoptlist\\shoptlist.gui\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,34 +22,38 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 265,
+      "VerticalTabListWidth": 152,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ShoptListPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documents\\shoptList\\shoptList.GUI\\Views\\ShoptListPage.xaml.cs",
               "RelativeDocumentMoniker": "shoptList.GUI\\Views\\ShoptListPage.xaml.cs",
               "ToolTip": "C:\\Users\\angel\\OneDrive\\Documents\\shoptList\\shoptList.GUI\\Views\\ShoptListPage.xaml.cs",
               "RelativeToolTip": "shoptList.GUI\\Views\\ShoptListPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T21:11:05.265Z",
+              "WhenOpened": "2025-11-24T02:18:41.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "shoplistViewModels.cs",
               "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documents\\shoptList\\shoptList.GUI\\ViewModels\\shoplistViewModels.cs",
               "RelativeDocumentMoniker": "shoptList.GUI\\ViewModels\\shoplistViewModels.cs",
               "ToolTip": "C:\\Users\\angel\\OneDrive\\Documents\\shoptList\\shoptList.GUI\\ViewModels\\shoplistViewModels.cs",
               "RelativeToolTip": "shoptList.GUI\\ViewModels\\shoplistViewModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T18:52:35.996Z",
               "EditorCaption": ""
@@ -62,24 +66,20 @@
               "RelativeDocumentMoniker": "shoptList.GUI\\Models\\item.cs",
               "ToolTip": "C:\\Users\\angel\\OneDrive\\Documents\\shoptList\\shoptList.GUI\\Models\\item.cs",
               "RelativeToolTip": "shoptList.GUI\\Models\\item.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T18:48:43.56Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ShoptListPage.xaml",
               "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documents\\shoptList\\shoptList.GUI\\Views\\ShoptListPage.xaml",
               "RelativeDocumentMoniker": "shoptList.GUI\\Views\\ShoptListPage.xaml",
               "ToolTip": "C:\\Users\\angel\\OneDrive\\Documents\\shoptList\\shoptList.GUI\\Views\\ShoptListPage.xaml",
               "RelativeToolTip": "shoptList.GUI\\Views\\ShoptListPage.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAArwDsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-19T18:24:34.534Z",
               "EditorCaption": ""
