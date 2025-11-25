@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|solutionrelative:shoptlist.gui\\viewmodels\\shoplistviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|c:\\users\\angel\\onedrive\\documents\\shoptlist\\shoptlist.gui\\views\\shoptlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|solutionrelative:shoptlist.gui\\views\\shoptlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|c:\\users\\angel\\onedrive\\documents\\shoptlist\\shoptlist.gui\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|solutionrelative:shoptlist.gui\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|c:\\users\\angel\\onedrive\\documents\\shoptlist\\shoptlist.gui\\views\\shoptlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|solutionrelative:shoptlist.gui\\views\\shoptlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|c:\\users\\angel\\onedrive\\documents\\shoptlist\\shoptlist.gui\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|solutionrelative:shoptlist.gui\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|c:\\users\\angel\\onedrive\\documents\\shoptlist\\shoptlist.gui\\views\\shoptlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC6121A-466C-4A3C-81E8-A11D5E174D41}|shoptList.GUI\\shoptList.GUI.csproj|solutionrelative:shoptlist.gui\\views\\shoptlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ShoptListPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documents\\shoptList\\shoptList.GUI\\Views\\ShoptListPage.xaml.cs",
               "RelativeDocumentMoniker": "shoptList.GUI\\Views\\ShoptListPage.xaml.cs",
@@ -42,8 +42,7 @@
               "RelativeToolTip": "shoptList.GUI\\Views\\ShoptListPage.xaml.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T02:18:41.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T02:18:41.039Z"
             },
             {
               "$type": "Document",
@@ -53,20 +52,20 @@
               "RelativeDocumentMoniker": "shoptList.GUI\\ViewModels\\shoplistViewModels.cs",
               "ToolTip": "C:\\Users\\angel\\OneDrive\\Documents\\shoptList\\shoptList.GUI\\ViewModels\\shoplistViewModels.cs",
               "RelativeToolTip": "shoptList.GUI\\ViewModels\\shoplistViewModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwBMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T18:52:35.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "item.cs",
               "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documents\\shoptList\\shoptList.GUI\\Models\\item.cs",
               "RelativeDocumentMoniker": "shoptList.GUI\\Models\\item.cs",
               "ToolTip": "C:\\Users\\angel\\OneDrive\\Documents\\shoptList\\shoptList.GUI\\Models\\item.cs",
               "RelativeToolTip": "shoptList.GUI\\Models\\item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T18:48:43.56Z",
               "EditorCaption": ""
