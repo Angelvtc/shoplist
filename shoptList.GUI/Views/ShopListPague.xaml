@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:viewmodel="clr-namespace shoptList.GUI.ViewModels"
+             xmlns:viewmodel="clr-namespace:ShopListViewModels"
              x:Class="shoptList.GUI.Views.ShoptListPage"
-             x:DataType="viewmodel:shopList Viewmodel"
-             xmlns:model="clr-namespace:shoptList.GUI.Models"
+             xmlns:model="clr-namespace:shoptList.GUI.Models"    
+             x:DataType="viewmodel:ShopListViewModels"
              Title="ShoptListPage">
     <Grid
         RowDefinitions="Auto,*"
@@ -69,7 +69,7 @@
             Grid.Row="1"
             Grid.Column="0"
             SelectionMode="Single"
-            ItemsSource="{Binding Path=Item}"
+            ItemsSource="{Binding item}"
             EmptyView="Aún no se han registrado productos"
             BackgroundColor="Beige">
 

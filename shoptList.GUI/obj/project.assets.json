@@ -26848,9 +26848,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Documents\\shoptList\\shoptList.GUI\\shoptList.GUI.csproj",
-      "projectName": "shoptList.GUI",
-      "projectPath": "C:\\Users\\angel\\OneDrive\\Documents\\shoptList\\shoptList.GUI\\shoptList.GUI.csproj",
+      "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Documents\\shoptList\\shoptList.GUI\\ShoptList.Gui.csproj",
+      "projectName": "ShoptList.Gui",
+      "projectPath": "C:\\Users\\angel\\OneDrive\\Documents\\shoptList\\shoptList.GUI\\ShoptList.Gui.csproj",
       "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\angel\\OneDrive\\Documents\\shoptList\\shoptList.GUI\\obj\\",
       "projectStyle": "PackageReference",
@@ -27096,5 +27096,13 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error al obtener los datos de vulnerabilidad del paquete: No se puede cargar el índice de servicio del origen https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

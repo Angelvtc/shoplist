@@ -2,18 +2,11 @@
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using shoptList.GUI.Models;
-//using System;
-//using System.Collections.Generic;
-//using System.ComponentModel;
-//using System.Linq;
-//using System.Text;
-//using System.Threading.Tasks;
-//using System.Windows.Input;
 
 namespace ShopListViewModels
 {
-      partial class shopListViewModels : ObservableObject
-    {
+      partial class ShopListViewModels : ObservableObject
+        {
             [ObservableProperty]
             private string _nombreDelArticulo = string.Empty;
             [ObservableProperty]
@@ -40,7 +33,7 @@ namespace ShopListViewModels
             //}
             //public ICommand _AgregarShopListItemCommand { get; private set; }
 
-            public shopListViewModels()
+            public ShopListViewModels()
             {
                 item = new ObservableCollection<Item>();
                 CargarDatos();
@@ -49,7 +42,7 @@ namespace ShopListViewModels
             [RelayCommand]
             public void AgregarShopListItem()
             {
-                if (string.IsNullOrEmpty(_nombreDelArticulo) || CantidadAComprar <= 0)
+                if (string.IsNullOrEmpty(NombreDelArticulo) || CantidadAComprar <= 0)
                 {
                     return;
                 }
@@ -63,7 +56,7 @@ namespace ShopListViewModels
                     Comprado = false,
                 };
                 item.Add(Item);
-                NombreDelArticulo = String.Empty;
+            NombreDelArticulo = String.Empty;
                 CantidadAComprar = 1;
             }
             [RelayCommand]

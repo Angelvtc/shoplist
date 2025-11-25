@@ -448,7 +448,6 @@ C:\Users\angel\OneDrive\Documents\shoptList\shoptList.GUI\obj\Debug\net9.0-windo
 C:\Users\angel\OneDrive\Documents\shoptList\shoptList.GUI\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\shoptList.GUI.AssemblyInfo.cs
 C:\Users\angel\OneDrive\Documents\shoptList\shoptList.GUI\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\shoptList.GUI.csproj.CoreCompileInputs.cache
 C:\Users\angel\OneDrive\Documents\shoptList\shoptList.GUI\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\XamlC.stamp
-C:\Users\angel\OneDrive\Documents\shoptList\shoptList.GUI\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\shoptLis.62E95E42.Up2Date
 C:\Users\angel\OneDrive\Documents\shoptList\shoptList.GUI\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\shoptList.GUI.dll
 C:\Users\angel\OneDrive\Documents\shoptList\shoptList.GUI\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\refint\shoptList.GUI.dll
 C:\Users\angel\OneDrive\Documents\shoptList\shoptList.GUI\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\shoptList.GUI.pdb
@@ -470,3 +469,5 @@ C:\Users\angel\OneDrive\Documents\shoptList\shoptList.GUI\obj\Debug\net9.0-windo
 C:\Users\angel\OneDrive\Documents\shoptList\shoptList.GUI\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\angel\OneDrive\Documents\shoptList\shoptList.GUI\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\angel\OneDrive\Documents\shoptList\shoptList.GUI\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\shoptList.GUI.sourcelink.json
+C:\Users\angel\OneDrive\Documents\shoptList\shoptList.GUI\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
+C:\Users\angel\OneDrive\Documents\shoptList\shoptList.GUI\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\ShoptLis.D07EC5E7.Up2Date

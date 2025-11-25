@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("shoptList.GUI")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ShoptList.Gui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+042118ff72295fa15c8b8e235a1e592a4a67a48d")]
-[assembly: System.Reflection.AssemblyProductAttribute("shoptList.GUI")]
-[assembly: System.Reflection.AssemblyTitleAttribute("shoptList.GUI")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+64d8f990b84168bcd13d56eda71465b03ca85ca7")]
+[assembly: System.Reflection.AssemblyProductAttribute("ShoptList.Gui")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ShoptList.Gui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("iOS18.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("iOS15.0")]

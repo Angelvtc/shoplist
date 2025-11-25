@@ -57,8 +57,8 @@ build_metadata.AdditionalFiles.ManifestResourceName = shoptList.GUI.Resources.St
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/angel/OneDrive/Documents/shoptList/shoptList.GUI/Views/ShoptListPage.xaml]
+[C:/Users/angel/OneDrive/Documents/shoptList/shoptList.GUI/Views/ShopListPague.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = shoptList.GUI.Views.ShoptListPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Views\ShoptListPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Views\ShoptListPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = shoptList.GUI.Views.ShopListPague.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ShopListPague.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ShopListPague.xaml
