@@ -11,33 +11,17 @@ namespace ShopListViewModels
             private string _nombreDelArticulo = string.Empty;
             [ObservableProperty]
             private int _cantidadAComprar = 1;
+            [ObservableProperty]
+            private Item _SelectedItem;
 
-            //public event PropertyChangedEventHandler? PropertyChanged;
-
-            public ObservableCollection<Item> item { get; }
-           // public string NombreDelArticulo
-           // {
-            //    get => _NombreDelArticulo;
-             //   set{                
-                    //if (value != _NombreDelArticulo)
-            //{
-            //    get => _CantidadAComprar;
-            //    set
-            //    {
-            //        if (value != _CantidadAComprar)
-            //        {
-            //            _CantidadAComprar = value;
-            //            OnPropetyChanged(nameof(_CantidadAComprar));
-            //        }
-            //    }
-            //}
-            //public ICommand _AgregarShopListItemCommand { get; private set; }
-
+        public ObservableCollection<Item> item { get; }
+       
+          
             public ShopListViewModels()
             {
                 item = new ObservableCollection<Item>();
                 CargarDatos();
-               //_AgregarShopListItemCommand = new Command(AgregarShopListItem);
+              
             }
             [RelayCommand]
             public void AgregarShopListItem()
@@ -59,12 +43,32 @@ namespace ShopListViewModels
             NombreDelArticulo = String.Empty;
                 CantidadAComprar = 1;
             }
-            [RelayCommand]
-            public void EleminarShopListItem()
-            {
 
+        [RelayCommand]
+        public void EleminarShopListItem()
+        {
+            if (SelectedItem == null)
+                return;
+
+            int index = item.IndexOf(SelectedItem);
+
+            item.Remove(SelectedItem);
+
+            // Seleccionar siguiente elemento si existe
+            if (item.Count > 0)
+            {
+                if (index >= item.Count)
+                    index = item.Count - 1;
+
+                SelectedItem = item[index];
             }
-            public void CargarDatos()
+            else
+            {
+                SelectedItem = null;
+            }
+        }
+
+        public void CargarDatos()
             {
             item.Add(new Item()
                 {
@@ -88,11 +92,7 @@ namespace ShopListViewModels
                     Comprado = true
                 });
             }
-            //private void OnPropetyChanged(string propetyName)
-            //{
-            //    PropertyChanged?.Invoke(
-            //        this, new PropertyChangedEventArgs(propetyName)
-            //        );
+          
             }
 }
 
